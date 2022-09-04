@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-zee-code&show_icons=true&theme=radical&locale=en" alt="malik-zee-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-zee-code&theme=dark" alt="malik-zee-code" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-zee-code&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="malik-zee-code" /></p>
