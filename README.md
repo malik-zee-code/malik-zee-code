@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps and NextJs**
 
-- 👨‍💻 All of my projects are available at [zeeshan-developer.netlify.app](https://zeeshan-developer.netlify.app)
+- 👨‍💻 Some of my projects are available at [zeeshan-developer.netlify.app](https://zeeshan-developer.netlify.app)
 
 - 💬 Ask me about **React , MERN , Node , MongoDB**
 
