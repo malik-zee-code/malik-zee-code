@@ -15,7 +15,7 @@
 
 - 👨‍💻 Some of my projects are available at [zeeshan-developer.netlify.app](https://zeeshan-developer.netlify.app)
 
-- 💬 Ask me about **React , MERN , Node , MongoDB**
+- 💬 Ask me about **MERN ,NextJs ,DevOps, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
