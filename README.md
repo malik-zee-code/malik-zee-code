@@ -1,5 +1,4 @@
-[![MasterHead]([https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg])](https://zeeshan-developer.netlify.app)
-
+<a href='https://zeeshan-developer.netlify.app'><img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="postman"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <h1 align="center">Hi 👋, I'm Zeeshan Haider</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
